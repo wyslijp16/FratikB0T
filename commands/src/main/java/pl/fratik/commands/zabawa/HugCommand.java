@@ -40,7 +40,7 @@ public class HugCommand extends Command {
         permLevel = PermLevel.EVERYONE;
         permissions.add(Permission.MESSAGE_ATTACH_FILES);
         cooldown = 5;
-        aliases = new String[] {"tulas", "przytul"};
+        aliases = new String[] {"tulas", "przytul", "calin"};
         allowPermLevelChange = false;
         allowInDMs = true;
     }
